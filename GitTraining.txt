@@ -2,3 +2,8 @@ Hello world
 
 Hello treasure	!
 Merge issue
+
+Creating conflicts
+
+I just modified the file
+
